@@ -15,7 +15,7 @@ This work was created as part of an engineering thesis for computer science stud
 
 ### Generation N = 10 
 
-![Toon Generation N = 10 ](Images/ToonGeneration10.png)
+![Toon Generation N = 10 ](Images/ToonGeneration.png)
 
 ### Generation N = 50
 
