@@ -12,3 +12,15 @@ This work was created as part of an engineering thesis for computer science stud
 ## Preview
 
 ![Wave Function Collapse in action](Images/Demo.gif)
+
+### Generation N = 10 
+
+![Toon Generation N = 10 ](Images/ToonGeneration10.png)
+
+### Generation N = 50
+
+![Toon Generation N = 50 ](Images/ToonGeneration50.png)
+
+### Complex Maze Generation
+
+![Maze Generation N = 50 ](Images/Maze50.png)
